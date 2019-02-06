@@ -1,0 +1,2 @@
+# golibfoo
+A library
